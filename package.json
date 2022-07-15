@@ -1,7 +1,7 @@
 {
   "name": "@opus-fi/core",
   "description": "🎛 Core contracts for the Opus",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "homepage": "https://opusfi.xyz",
   "repository": {
     "type": "git",
