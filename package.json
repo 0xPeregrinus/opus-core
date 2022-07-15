@@ -1,18 +1,19 @@
 {
-  "name": "@uniswap/v2-core",
-  "description": "🎛 Core contracts for the UniswapV2 protocol",
+  "name": "@opus-fi/core",
+  "description": "🎛 Core contracts for the Opus",
   "version": "1.0.1",
-  "homepage": "https://uniswap.org",
+  "homepage": "https://opusfi.xyz",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Uniswap/uniswap-v2-core"
+    "url": "https://github.com/opus-fi/opus-core"
   },
   "keywords": [
     "uniswap",
     "ethereum",
     "v2",
     "core",
-    "uniswap-v2"
+    "uniswap-v2",
+    "opus"
   ],
   "files": [
     "contracts",
@@ -30,7 +31,7 @@
     "mocha": "^6.2.2",
     "prettier": "^1.19.1",
     "rimraf": "^3.0.0",
-    "solc": "0.5.16",
+    "solc": "0.6.12",
     "ts-node": "^8.5.4",
     "typescript": "^3.7.3"
   },
